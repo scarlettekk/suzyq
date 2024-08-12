@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,59.27,-41.5,90.0,top
+R1,22k 1%,R_0402_1005Metric,61.01,-36.0,180.0,top
+R2,45.3k,R_0402_1005Metric,56.99,-36.0,180.0,top
+U1,~,U262-161N-4BS165,58.999,-31.2295,180.0,top

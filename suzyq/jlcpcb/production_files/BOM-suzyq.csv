@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x04_Pin,J1,PinHeader_1x04_P2.54mm_Vertical,
+45.3k,R2,R_0402_1005Metric,
+~,U1,U262-161N-4BS165,
+22k 1%,R1,R_0402_1005Metric,
